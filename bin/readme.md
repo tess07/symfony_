@@ -1,0 +1,1 @@
+ alt ctrl i pour les namespaces extension php namespace resolver
